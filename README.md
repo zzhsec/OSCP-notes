@@ -22,7 +22,7 @@ It's only dependency is that you compile it as C++20, because it has some more m
 
 ## Features
 
-###Reverse Shell One Liners
+### Reverse Shell One Liners
 
 * Bash reverse shells
 * Perl reverse shells
@@ -36,7 +36,7 @@ It's only dependency is that you compile it as C++20, because it has some more m
 * C reverse shell (1)
 
 
-###Bind shell One Liners
+### Bind shell One Liners
 
 * Perl bind shells
 * Python bind shells
@@ -47,7 +47,7 @@ It's only dependency is that you compile it as C++20, because it has some more m
 * Socat bindshell
 
 
-###HTTP Servers
+### HTTP Servers
 
 * Python2 HTTP server
 * Ruby HTTP server
@@ -56,13 +56,13 @@ It's only dependency is that you compile it as C++20, because it has some more m
 * busybox HTTP server
 
 
-###Buffer Overflow Skeleton PoC's
+### Buffer Overflow Skeleton PoC's
 
 * Python2 skeleton PoC
 * Python3 skeleton PoC
 * Bad char generator (256)
 
-###Linux post enumeration
+### Linux post enumeration
 
 * TTY spwan shell
 * Cron Jobs enumeration
@@ -71,7 +71,7 @@ It's only dependency is that you compile it as C++20, because it has some more m
 
 
 
-##Credits
+### Credits
 I couldn't have written it without the following peoples work and ideas:
 * cwinfosec
 * oatsec
