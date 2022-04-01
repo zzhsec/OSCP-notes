@@ -74,5 +74,5 @@ It's only dependency is that you compile it as C++20, because it has some more m
 ### Credits
 I couldn't have written it without the following peoples work and ideas:
 * cwinfosec
-* oatsec
+* secoats
 * swisskyrepo
